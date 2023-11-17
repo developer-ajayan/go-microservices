@@ -1,3 +1,5 @@
+package pkg
+
 type user struct{
 	ID int `json:d`
 	Username string `json:username`
